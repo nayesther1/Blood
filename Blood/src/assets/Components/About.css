@@ -1,0 +1,134 @@
+body{
+  background-color:white;
+}
+.about-first{
+    background-color:#E69598;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    border-radius: 1.2rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.about-left h2{
+    font-style: italic;
+    color: #0E254E;
+    
+}
+
+.about-left p{
+    font-style: italic;
+    margin-left: 2rem; 
+    margin-bottom: 3rem;
+   color: #0E254E; 
+}
+.about-right p{
+    font-style: italic;
+    margin-left: 2rem; 
+    margin-right: 4rem;
+    
+   color: #0E254E; 
+}
+.imgpic{
+   justify-content: space-around;
+   gap: 3rem;
+}
+.borderadius{
+    background-color: white;
+    border-radius: 2rem;
+    
+    /* background-color: red;
+    border-radius: 2rem; */
+}
+
+
+
+
+
+
+
+.first-we-stand{
+    color: #0E254E;
+    font-size: larger;
+    margin-left: 40rem;
+    
+  }
+  .frame{
+    margin-left: 20rem;
+    display: flex;
+    flex-direction: row;
+    gap:2rem;
+    justify-items: center;
+    margin-right: 20rem;
+    
+  }
+  .second-we-stand{
+    /* width: 10rem; */
+    padding-left: 3rem;
+    /* height: 10rem; */
+    border-radius: 10%;
+    box-shadow:  0 4px 8px rgba(244, 15, 15, 0.1), /* First shadow */
+    0 8px 16px rgba(239, 33, 40, 0.041) ;  }
+  .third-we-stand{
+    /* width: 10rem; */
+    padding-left: 3rem;
+    /* height: 10rem; */
+    border-radius: 10%;
+    box-shadow:  0 4px 8px rgba(244, 15, 15, 0.1), /* First shadow */
+                 0 8px 16px rgba(239, 33, 40, 0.041) ;
+  }
+  .fourth-second-we-stand{
+    /* width: 10rem; */
+    padding-left: 3rem;
+    /* height: 10rem; */
+    border-radius: 10%;
+    box-shadow:  0 4px 8px rgba(244, 15, 15, 0.1), /* First shadow */
+                 0 8px 16px rgba(239, 33, 40, 0.041) ;
+  }
+  .stories{
+  justify-content: space-around;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  background-color: #CB2C31;
+  display: flex;
+  flex-direction: row;
+  color: whitesmoke;
+  border-radius: 10px;
+  }
+  .community{
+    font-style: italic ;
+  }
+  .section-two{
+    width: 14rem;
+    size: 2rem;
+    height: 1px;
+    background-color: red;
+  }
+  .underline-two{
+    height: 1px;
+    background-color: red;
+    size: 2rem;
+    width: 50%;
+  }
+  .testimonials{
+  margin: 30px;
+  }
+  .peek{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .address{
+    width: 200px;
+    height:200px;
+    background-color: #0E254E;
+  }
+  .img-about img{
+    border-radius: 60px;
+    height: 5rem;
+    width: 6.6rem;
+  }
+  .stories-right-side{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  
